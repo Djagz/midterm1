@@ -14,6 +14,7 @@ public class BasicCalculator {
 	}
 	
 	public double multiply(int a, int b){
+                System.out.println("Here comes multiplication: ");
                 System.out.println("The answer of multiplication is: ");
 		return a * b;
 	}
