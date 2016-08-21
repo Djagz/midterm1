@@ -24,6 +24,7 @@ public class BasicCalculator {
 	}
 	
 	public double modulus(int a, int b){
+                System.out.println("The answer of modulus is: ");
 		return a % b;
 	}
 	
