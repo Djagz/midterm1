@@ -4,6 +4,7 @@ public class BasicCalculator {
 	private int a, b;
 	
 	public int add(int a, int b){
+                System.out.println("Here comes addition: ");
 		System.out.println("The answer of addition is: ");
 		return a + b;
 	}
