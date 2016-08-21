@@ -20,6 +20,7 @@ public class BasicCalculator {
 	}
 	
 	public double divide(int a, int b){
+                System.out.println("Here comes division: ");
                 System.out.println("The answer of division is: ");
 		return a / b;
 	}
